@@ -1,8 +1,7 @@
 # Atonye-Endeley
-![image](https://github.com/atonendeley/Atonye-Endeley/assets/92391938/e8b6c05d-01f1-4bb9-97f9-49905275cf3e)
-
 
 ## Aspring Software Engineer | Passionate about Coding & Problem - Solving ##
+![image](https://github.com/atonendeley/Atonye-Endeley/assets/92391938/e8b6c05d-01f1-4bb9-97f9-49905275cf3e)
 
 Enthusiastic and driven software engineer with an interest in Artificial Intelligence and Machine Learning with a strong desire to contribute to innovative projects and make a posotive impact in the tech industry.
  
