@@ -1,5 +1,5 @@
 # Atonye-Endeley
-My Profile
+
 Experienced Project Manager | Junor Software Engineer | Programmer | AI Enthusiast | Machine Learning Engineer 
 
 Experienced project manager with over 20 years of successful track record in leading diverse projects across education, government, and IT infrastructure sectors, worth £250M+ to completion.
