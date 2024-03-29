@@ -1,5 +1,6 @@
 # Atonye-Endeley
-https://www.istockphoto.com/photo/information-technologies-text-in-blue-in-a-cloud-gm462416239-32332172?searchscope=image%2Cfilm
+![image](https://github.com/atonendeley/Atonye-Endeley/assets/92391938/e8b6c05d-01f1-4bb9-97f9-49905275cf3e)
+
 
 ## Aspring Software Engineer | Passionate about Coding & Problem - Solving ##
 
