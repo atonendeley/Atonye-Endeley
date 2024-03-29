@@ -4,7 +4,7 @@ Experienced Project Manager | Junor Software Engineer | Programmer | AI Enthusia
 
 Experienced project manager with over 20 years of successful track record in leading diverse projects across education, government, and IT infrastructure sectors, worth £250M+ to completion.
 
-Posssess a good understanding of Software development life cycle, Scrum and Agile methodologies.
+Posssess a good understanding of Software Development Life Cycle, Scrum and Agile methodologies.
 
 Passionate about leveraging artificial intelligence and sofware development to drive innovation and optimize project outcomes, with a keen interest in exploring the intersection of AI and project management.
 
